@@ -1,0 +1,15 @@
+# Visual Studio temporary and build files
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+*.idb
+*.ipch
+*.db
